@@ -1,0 +1,14 @@
+Services
+	ForeGround 
+		- Noticed By User
+		- Running even used not dealing with app
+		- It have own Lifecycle
+		- For Example Music Player App ( notification of Current Song )
+		- Map - Show the Distance betweeen Two Station
+		- WorkManager API Same ForeGround Services
+	Background  
+		- It giving any information via Notification
+		- For Example....Compact its Storage		
+
+	Bound	- It not have own LifeCycle
+		- Unbind the Binded Data

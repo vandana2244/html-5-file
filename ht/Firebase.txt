@@ -1,0 +1,3 @@
+// if u update data then don't use push key
+// if add data then used push key word
+/// if u delete data then used removedata 
